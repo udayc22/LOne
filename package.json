@@ -38,6 +38,8 @@
     "pinia": "^2.0.28",
     "readable-stream": "^4.2.0",
     "rollup-plugin-node-polyfills": "^0.2.1",
+    "sortablejs": "^1.15.0",
+    "sortablejs-vue3": "^1.2.6",
     "uuid4": "^2.0.3",
     "vue": "^3.2.33"
   }
