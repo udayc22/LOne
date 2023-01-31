@@ -280,7 +280,7 @@
               id="tasks-progress-list"
               class="is-scrollbar-hidden relative space-y-2.5 overflow-y-auto p-0.5"
             >
-              <sortable>
+              <Sortable>
                 <div class="card cursor-pointer shadow-sm">
                   <div class="flex space-x-3 px-2.5 pb-2 pt-1.5">
                     <div class="w-10 shrink-0 py-1">
@@ -829,7 +829,7 @@
                     </div>
                   </div>
                 </div>
-              </sortable>
+              </Sortable>
             </div>
             <div class="flex justify-center py-2">
               <button
