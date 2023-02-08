@@ -2,7 +2,7 @@
   <!-- Sidebar Panel -->
   <div class="my-sidebar-panel">
     <div
-      class="flex h-full grow flex-col ml-0 pl-[var(--main-sidebar-width)] bg-white dark:bg-navy-750"
+      class="flex h-full max-w-sm grow flex-col ml-0 pl-[var(--main-sidebar-width)] bg-white dark:bg-navy-750"
     >
       <!-- Sidebar Panel Header -->
       <div class="flex h-18 w-full items-center justify-between pl-4 pr-1">
@@ -81,9 +81,11 @@
             </div>
           </div>
           <div id="history-slide" class="swiper px-4">
-            <div class="swiper-wrapper mt-1 flex flex-row gap-2">
+            <div
+              class="swiper-wrapper mt-1 flex flex-row gap-2 overflow-hidden"
+            >
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -101,7 +103,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -119,7 +121,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -137,7 +139,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -155,7 +157,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -173,7 +175,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -191,7 +193,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -209,7 +211,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -227,7 +229,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -245,7 +247,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -263,7 +265,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -281,7 +283,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -299,7 +301,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -317,7 +319,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -335,7 +337,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -353,7 +355,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -371,7 +373,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -389,7 +391,7 @@
                 </p>
               </div>
               <div
-                class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
+                class="swiper-slide flex w-11 shrink-0 flex-col items-center justify-center"
               >
                 <div
                   class="h-11 w-11 rounded-full bg-gradient-to-r from-purple-500 to-orange-600 p-0.5"
@@ -411,9 +413,9 @@
         </div>
 
         <div class="mt-4 flex px-4">
-          <label class="relative mr-1.5 flex">
+          <label class="relative flex">
             <input
-              class="form-input peer h-8 w-full rounded-lg bg-slate-150 px-3 py-2 pl-9 text-xs+ ring-primary/50 placeholder:text-slate-400 hover:bg-slate-200 focus:ring dark:bg-navy-900/90 dark:ring-accent/50 dark:placeholder:text-navy-300 dark:hover:bg-navy-900 dark:focus:bg-navy-900"
+              class="form-input peer h-8 w-full rounded-lg bg-slate-150 py-2 pl-9 text-xs+ ring-primary/50 placeholder:text-slate-400 hover:bg-slate-200 focus:ring dark:bg-navy-900/90 dark:ring-accent/50 dark:placeholder:text-navy-300 dark:hover:bg-navy-900 dark:focus:bg-navy-900"
               placeholder="Search chats"
               type="text"
             />
@@ -434,7 +436,7 @@
           </label>
 
           <button
-            class="btn -mr-2 h-8 w-8 waitshrink-0 rounded-full p-0 text-slate-500 hover:bg-slate-300/20 hover:text-primary focus:bg-slate-300/20 focus:text-primary active:bg-slate-300/25 dark:text-navy-200 dark:hover:bg-navy-300/20 dark:hover:text-accent dark:focus:bg-navy-300/20 dark:focus:text-accent dark:active:bg-navy-300/25"
+            class="btn -mr-2 h-8 w-8 shrink-0 rounded-full p-0 text-slate-500 hover:bg-slate-300/20 hover:text-primary focus:bg-slate-300/20 focus:text-primary active:bg-slate-300/25 dark:text-navy-200 dark:hover:bg-navy-300/20 dark:hover:text-accent dark:focus:bg-navy-300/20 dark:focus:text-accent dark:active:bg-navy-300/25"
           >
             <svg
               xmlns="http://www.w3.org/2000/svg"
@@ -1003,7 +1005,7 @@
         </div>
 
         <div
-          class="flex h-12 waitshrink-0 justify-between border-t border-slate-150 px-1.5 py-1 dark:border-navy-600"
+          class="flex h-12 shrink-0 justify-between border-t border-slate-150 px-1.5 py-1 dark:border-navy-600"
         >
           <a
             href="#"
