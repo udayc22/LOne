@@ -1,8 +1,8 @@
 <template>
   <!-- Sidebar Panel -->
-  <div class="sidebar-panel">
+  <div class="my-sidebar-panel">
     <div
-      class="flex h-full w-full grow flex-col ml-0 pl-[var(--main-sidebar-width)] bg-white dark:bg-navy-750"
+      class="flex h-full grow flex-col ml-0 pl-[var(--main-sidebar-width)] bg-white dark:bg-navy-750"
     >
       <!-- Sidebar Panel Header -->
       <div class="flex h-18 w-full items-center justify-between pl-4 pr-1">
@@ -55,7 +55,7 @@
       </div>
 
       <!-- Sidebar Panel Body -->
-      <div class="flex h-[calc(100%-4.5rem)] grow flex-col">
+      <div class="flex h-[calc(100%-4.5rem)] shrink-0 grow flex-col">
         <div>
           <div class="flex items-center justify-between px-4">
             <span class="text-xs+ font-medium uppercase">History</span>
@@ -81,7 +81,7 @@
             </div>
           </div>
           <div id="history-slide" class="swiper px-4">
-            <div class="swiper-wrapper mt-1">
+            <div class="swiper-wrapper mt-1 flex flex-row gap-2">
               <div
                 class="swiper-slide flex w-11 waitshrink-0 flex-col items-center justify-center"
               >
