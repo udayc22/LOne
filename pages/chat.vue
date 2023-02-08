@@ -1,9 +1,12 @@
 <template>
-  <Chat></Chat>
+  <ChatSidebar />
+
+  <ChatMain />
 </template>
 
 <script setup>
-import Chat from "@/components/Chat.vue";
+import ChatSidebar from "~~/components/Chat/ChatSidebar.vue";
+import ChatMain from "~~/components/Chat/Chatmain.vue";
 
 onMounted(() => {
   // THIS SCRIPT REQUIRED FOR PREVENT For Dark Mode
