@@ -1,4 +1,4 @@
-@import "~toastify-js/src/toastify.css";
+/* @import "~toastify-js/src/toastify.css"; */
 
 .toastify {
   @apply z-[10010] rounded bg-slate-200 bg-none font-medium text-slate-800 shadow-none dark:bg-navy-600 dark:text-navy-50;
