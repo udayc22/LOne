@@ -4409,6 +4409,7 @@
       </div>
     </div>
 
+    <!-- chat-detail RHS Drawer -->
     <div id="chat-detail" class="drawer drawer-right">
       <div
         class="drawer-content fixed right-0 top-0 z-[101] hidden h-full w-full sm:w-80"
