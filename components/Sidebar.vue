@@ -1,5 +1,4 @@
 <template>
-
   <!-- Sidebar -->
   <div class="sidebar print:hidden">
     <!-- Main Sidebar -->
@@ -497,5 +496,6 @@
         </div>
       </div>
     </div>
-
+  </div>
+  >
 </template>
