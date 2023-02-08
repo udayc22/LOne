@@ -1,15 +1,12 @@
 <template>
-  <div
+  <!-- App Preloader -->
+  <!-- <div
     class="app-preloader fixed z-50 grid h-full w-full place-content-center bg-slate-50 dark:bg-navy-900"
   >
     <div class="app-preloader-inner relative inline-block h-48 w-48"></div>
-  </div>
-
+  </div> -->
   <!-- Page Wrapper -->
-  <div
-    id="root"
-    class="min-h-100vh cloak flex grow bg-slate-50 dark:bg-navy-900"
-  >
+  <div id="root" class="min-h-100vh flex grow bg-slate-50 dark:bg-navy-900">
     <!-- Sidebar -->
     <div class="sidebar print:hidden">
       <!-- Main Sidebar -->
@@ -3579,7 +3576,6 @@
       </div>
     </div>
   </div>
-
   <!-- Main Content Wrapper -->
   <main class="main-content h-100vh chat-app mt-0 flex w-full flex-col">
     <div
