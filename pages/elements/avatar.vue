@@ -1,9 +1,9 @@
 <template>
-  <Avatar></Avatar>
+  <Avatar />
 </template>
 
-<script setup></script>
-
+<script setup>
 import Avatar from "@/components/Elements/Avatar.vue";
+</script>
 
 <style scoped></style>
