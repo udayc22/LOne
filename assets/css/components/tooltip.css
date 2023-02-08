@@ -1,6 +1,6 @@
-@import "~tippy.js/dist/tippy.css";
+/* @import "~tippy.js/dist/tippy.css";
 @import "~tippy.js/dist/svg-arrow.css";
-@import "~tippy.js/animations/shift-away.css";
+@import "~tippy.js/animations/shift-away.css"; */
 
 .tippy-box {
   @apply bg-slate-150 text-slate-800 dark:bg-navy-500 dark:text-navy-50;
@@ -69,4 +69,3 @@
 .tippy-box[data-theme~="light"] > .tippy-svg-arrow svg {
   @apply text-slate-150;
 }
-
