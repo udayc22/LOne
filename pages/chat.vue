@@ -2,4 +2,10 @@
   <Chat></Chat>
 </template>
 
-<script setup></script>
+<script setup>
+import Chat from "@/components/chat.vue";
+
+// components: {
+//   Chat;
+// }
+</script>
