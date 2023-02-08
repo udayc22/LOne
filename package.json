@@ -8,8 +8,8 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@fortawesome/free-brands-svg-icons": "^6.2.0",
-    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/free-brands-svg-icons": "^6.3.0",
+    "@fortawesome/free-solid-svg-icons": "^6.3.0",
     "@nuxt/postcss8": "^1.1.3",
     "@nuxtjs/fontawesome": "^1.1.2",
     "@nuxtjs/tailwindcss": "^5.3.3",
@@ -24,8 +24,9 @@
   },
   "dependencies": {
     "@aws-amplify/ui-vue": "^3.0.4",
-    "@fortawesome/fontawesome-svg-core": "^6.2.1",
-    "@fortawesome/vue-fontawesome": "^3.0.2",
+    "@fortawesome/fontawesome-svg-core": "^6.3.0",
+    "@fortawesome/free-regular-svg-icons": "^6.3.0",
+    "@fortawesome/vue-fontawesome": "^3.0.3",
     "@headlessui/vue": "^1.4.2",
     "@jridgewell/sourcemap-codec": "^1.4.14",
     "@mdi/js": "^7.0.96",
@@ -33,14 +34,28 @@
     "@rollup/plugin-terser": "^0.2.0",
     "@tailwindcss/line-clamp": "^0.4.2",
     "aws-amplify": "^5.0.5",
+    "gridjs-vue": "^5.0.4",
     "numeral": "^2.0.6",
     "paper": "^0.12.17",
     "pinia": "^2.0.28",
     "readable-stream": "^4.2.0",
     "rollup-plugin-node-polyfills": "^0.2.1",
+    "simplebar-vue3": "^0.2.0",
     "sortablejs": "^1.15.0",
     "sortablejs-vue3": "^1.2.6",
+    "swiper": "^9.0.3",
     "uuid4": "^2.0.3",
-    "vue": "^3.2.33"
+    "vue": "^3.2.33",
+    "vue-cleave-component": "^3.0.2",
+    "vue-dayjs": "^1.0.2",
+    "vue-filepond": "^7.0.3",
+    "vue-highlightjs": "^1.3.3",
+    "vue-tippy": "^6.0.0",
+    "vue3-accessible-accordions": "^0.5.0",
+    "vue3-apexcharts": "^1.4.1",
+    "vue3-popper": "^1.5.0",
+    "vue3-quill": "^0.3.0",
+    "vue3-toastify": "^0.0.6",
+    "vue3-twemoji-picker-final": "^0.0.15"
   }
 }
