@@ -1005,7 +1005,7 @@
         </div>
 
         <div
-          class="flex h-12 shrink-0 justify-between border-t border-slate-150 px-1.5 py-1 dark:border-navy-600"
+          class="flex bg-gray-700 h-12 shrink-0 justify-between border-t border-slate-150 px-1.5 py-1 dark:border-navy-600"
         >
           <a
             href="#"
