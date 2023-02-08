@@ -1,5 +1,5 @@
 <template>
-  <!-- <ChatSidebar /> -->
+  <ChatSidebar />
   <ChatMain />
 </template>
 
