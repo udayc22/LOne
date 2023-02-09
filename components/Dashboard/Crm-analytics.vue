@@ -1,5 +1,5 @@
 <template>
-  <!-- Page Wrapper -->
+
 
   <!-- Main Content Wrapper -->
   <div class="main-content w-full pb-8">
