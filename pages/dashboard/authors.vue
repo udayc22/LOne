@@ -1,9 +1,9 @@
 <template>
-  <authors />
+  <Authors />
 </template>
 
 <script setup>
-import Authors from "@/components/Dashboard/authors.vue";
+import Authors from "~~/components/Dashboard/Authors.vue";
 </script>
 
-<style scoped></style>
+<style></style>
