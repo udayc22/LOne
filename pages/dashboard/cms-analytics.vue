@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import Authors from "~~/components/Dashboard/Cms-analytics.vue";
+import CmsAnalytics from "~~/components/Dashboard/Cms-analytics.vue";
 </script>
 
 <style></style>

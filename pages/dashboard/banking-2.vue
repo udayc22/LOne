@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import Authors from "~~/components/Dashboard/Banking-2.vue";
+import Banking2Vue from "~~/components/Dashboard/Banking-2.vue";
 </script>
 
 <style></style>
