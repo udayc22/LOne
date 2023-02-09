@@ -1,7 +1,7 @@
 <template>
   <div>
     <!-- Main Content Wrapper -->
-    <main class="main-content w-full pb-8">
+    <div class="main-content w-full pb-8">
       <div
         class="mt-6 flex flex-col items-center justify-between space-y-2 px-[var(--margin-x)] text-center transition-all duration-[.25s] sm:flex-row sm:space-y-0 sm:text-left"
       >
@@ -1292,10 +1292,10 @@
           </div>
         </div>
       </div>
-    </main>
+    </div>
   </div>
 </template>
 
 <script setup></script>
 
-<style lang="scss" scoped></style>
+<style scoped></style>
