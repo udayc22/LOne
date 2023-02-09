@@ -1,8 +1,7 @@
-<!-- Main Content Wrapper -->
-<main class="main-content w-full px-[var(--margin-x)] pb-8">
-    <div
-      class="mt-4 grid grid-cols-12 gap-4 sm:mt-5 sm:gap-5 lg:mt-6 lg:gap-6"
-    >
+<template>
+  <!-- Main Content Wrapper -->
+  <main class="main-content w-full px-[var(--margin-x)] pb-8">
+    <div class="mt-4 grid grid-cols-12 gap-4 sm:mt-5 sm:gap-5 lg:mt-6 lg:gap-6">
       <div
         class="col-span-12 grid grid-cols-12 rounded-lg bg-gradient-to-r from-blue-500 to-indigo-600 py-5 sm:py-6"
       >
@@ -57,9 +56,7 @@
                         >
                       </li>
                     </ul>
-                    <div
-                      class="my-1 h-px bg-slate-150 dark:bg-navy-500"
-                    ></div>
+                    <div class="my-1 h-px bg-slate-150 dark:bg-navy-500"></div>
                     <ul>
                       <li>
                         <a
@@ -163,12 +160,8 @@
                     </svg>
                   </div>
                   <div class="text-white">
-                    <p class="text-lg font-semibold tracking-wide">
-                      $1,686.66
-                    </p>
-                    <p class="mt-1 text-xs font-medium">
-                      **** **** **** 7946
-                    </p>
+                    <p class="text-lg font-semibold tracking-wide">$1,686.66</p>
+                    <p class="mt-1 text-xs font-medium">**** **** **** 7946</p>
                   </div>
                 </div>
               </div>
@@ -200,12 +193,8 @@
                     </svg>
                   </div>
                   <div class="text-white">
-                    <p class="text-lg font-semibold tracking-wide">
-                      $5,589.16
-                    </p>
-                    <p class="mt-1 text-xs font-medium">
-                      **** **** **** 5699
-                    </p>
+                    <p class="text-lg font-semibold tracking-wide">$5,589.16</p>
+                    <p class="mt-1 text-xs font-medium">**** **** **** 5699</p>
                   </div>
                 </div>
               </div>
@@ -237,12 +226,8 @@
                     </svg>
                   </div>
                   <div class="text-white">
-                    <p class="text-lg font-semibold tracking-wide">
-                      $2,139.22
-                    </p>
-                    <p class="mt-1 text-xs font-medium">
-                      **** **** **** 8945
-                    </p>
+                    <p class="text-lg font-semibold tracking-wide">$2,139.22</p>
+                    <p class="mt-1 text-xs font-medium">**** **** **** 8945</p>
                   </div>
                 </div>
               </div>
@@ -274,12 +259,8 @@
                     </svg>
                   </div>
                   <div class="text-white">
-                    <p class="text-lg font-semibold tracking-wide">
-                      $369.74
-                    </p>
-                    <p class="mt-1 text-xs font-medium">
-                      **** **** **** 2568
-                    </p>
+                    <p class="text-lg font-semibold tracking-wide">$369.74</p>
+                    <p class="mt-1 text-xs font-medium">**** **** **** 2568</p>
                   </div>
                 </div>
               </div>
@@ -347,9 +328,7 @@
                       >
                     </li>
                   </ul>
-                  <div
-                    class="my-1 h-px bg-slate-150 dark:bg-navy-500"
-                  ></div>
+                  <div class="my-1 h-px bg-slate-150 dark:bg-navy-500"></div>
                   <ul>
                     <li>
                       <a
@@ -399,9 +378,7 @@
                     />
                   </div>
                   <div>
-                    <p
-                      class="text-slate-700 line-clamp-1 dark:text-navy-100"
-                    >
+                    <p class="text-slate-700 line-clamp-1 dark:text-navy-100">
                       Konnor Guzman
                     </p>
                     <p
@@ -423,9 +400,7 @@
                     />
                   </div>
                   <div>
-                    <p
-                      class="text-slate-700 line-clamp-1 dark:text-navy-100"
-                    >
+                    <p class="text-slate-700 line-clamp-1 dark:text-navy-100">
                       Henry Curtis
                     </p>
                     <p
@@ -447,9 +422,7 @@
                     />
                   </div>
                   <div>
-                    <p
-                      class="text-slate-700 line-clamp-1 dark:text-navy-100"
-                    >
+                    <p class="text-slate-700 line-clamp-1 dark:text-navy-100">
                       Derrick Simmons
                     </p>
                     <p
@@ -471,9 +444,7 @@
                     />
                   </div>
                   <div>
-                    <p
-                      class="text-slate-700 line-clamp-1 dark:text-navy-100"
-                    >
+                    <p class="text-slate-700 line-clamp-1 dark:text-navy-100">
                       Kartina West
                     </p>
                     <p
@@ -495,9 +466,7 @@
                     />
                   </div>
                   <div>
-                    <p
-                      class="text-slate-700 line-clamp-1 dark:text-navy-100"
-                    >
+                    <p class="text-slate-700 line-clamp-1 dark:text-navy-100">
                       Samantha Shelton
                     </p>
                     <p
@@ -519,9 +488,7 @@
                     />
                   </div>
                   <div>
-                    <p
-                      class="text-slate-700 line-clamp-1 dark:text-navy-100"
-                    >
+                    <p class="text-slate-700 line-clamp-1 dark:text-navy-100">
                       Joe Perkins
                     </p>
                     <p
@@ -708,3 +675,4 @@
       </div>
     </div>
   </main>
+</template>
