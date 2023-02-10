@@ -546,7 +546,7 @@
                   >
                     <img
                       class="h-full w-full rounded-full border-2 border-white object-cover object-center dark:border-navy-700"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -661,7 +661,7 @@
                   >
                     <img
                       class="h-full w-full rounded-full border-2 border-white object-cover object-center dark:border-navy-700"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -776,7 +776,7 @@
                   >
                     <img
                       class="h-full w-full rounded-full border-2 border-white object-cover object-center dark:border-navy-700"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -891,7 +891,7 @@
                   >
                     <img
                       class="h-full w-full rounded-full border-2 border-white object-cover object-center dark:border-navy-700"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -1086,7 +1086,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/100x100.png"
+                      src="@/assets/images/100x100.png"
                       alt="flag"
                     />
                     <p>Instagram</p>
@@ -1115,7 +1115,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/100x100.png"
+                      src="@/assets/images/100x100.png"
                       alt="flag"
                     />
                     <p>Facebook</p>
@@ -1144,7 +1144,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/100x100.png"
+                      src="@/assets/images/100x100.png"
                       alt="flag"
                     />
                     <p>Youtube</p>
@@ -1173,7 +1173,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/100x100.png"
+                      src="@/assets/images/100x100.png"
                       alt="flag"
                     />
                     <p>Pinterest</p>
@@ -1202,7 +1202,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/100x100.png"
+                      src="@/assets/images/100x100.png"
                       alt="flag"
                     />
                     <p>Discord</p>
@@ -1231,7 +1231,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/100x100.png"
+                      src="@/assets/images/100x100.png"
                       alt="flag"
                     />
                     <p>TikTok</p>
@@ -1260,7 +1260,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/100x100.png"
+                      src="@/assets/images/100x100.png"
                       alt="flag"
                     />
                     <p>Twitter</p>
@@ -1289,7 +1289,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/100x100.png"
+                      src="@/assets/images/100x100.png"
                       alt="flag"
                     />
                     <p>Tumblr</p>
@@ -1344,7 +1344,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/flags/australia-round.svg"
+                      src="@/assets/images/flags/australia-round.svg"
                       alt="flag"
                     />
                     <p>Australia</p>
@@ -1373,7 +1373,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/flags/brazil-round.svg"
+                      src="@/assets/images/flags/brazil-round.svg"
                       alt="flag"
                     />
                     <p>Brazil</p>
@@ -1402,7 +1402,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/flags/china-round.svg"
+                      src="@/assets/images/flags/china-round.svg"
                       alt="flag"
                     />
                     <p>China</p>
@@ -1431,7 +1431,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/flags/india-round.svg"
+                      src="@/assets/images/flags/india-round.svg"
                       alt="flag"
                     />
                     <p>India</p>
@@ -1460,7 +1460,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/flags/italy-round.svg"
+                      src="@/assets/images/flags/italy-round.svg"
                       alt="flag"
                     />
                     <p>Italy</p>
@@ -1489,7 +1489,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/flags/japan-round.svg"
+                      src="@/assets/images/flags/japan-round.svg"
                       alt="flag"
                     />
                     <p>Japan</p>
@@ -1518,7 +1518,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/flags/russia-round.svg"
+                      src="@/assets/images/flags/russia-round.svg"
                       alt="flag"
                     />
                     <p>Russia</p>
@@ -1547,7 +1547,7 @@
                   <div class="flex items-center space-x-2">
                     <img
                       class="h-6 w-6"
-                      src="images/flags/spain-round.svg"
+                      src="@/assets/images/flags/spain-round.svg"
                       alt="flag"
                     />
                     <p>Spain</p>
@@ -1739,7 +1739,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>
@@ -1816,7 +1816,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>
@@ -1892,7 +1892,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>
@@ -1966,7 +1966,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>
@@ -2042,7 +2042,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>
@@ -2118,7 +2118,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>
@@ -2195,7 +2195,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>
@@ -2272,7 +2272,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>
@@ -2348,7 +2348,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>
@@ -2422,7 +2422,7 @@
                           <div class="avatar h-9 w-9">
                             <img
                               class="mask is-squircle"
-                              src="images/200x200.png"
+                              src="@/assets/images/200x200.png"
                               alt="avatar"
                             />
                           </div>

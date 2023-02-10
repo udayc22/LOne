@@ -435,7 +435,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/usa-round.svg"
+                  src="@/assets/images/flags/usa-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -454,7 +454,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/russia-round.svg"
+                  src="@/assets/images/flags/russia-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -594,7 +594,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/australia-round.svg"
+                  src="@/assets/images/flags/australia-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -613,7 +613,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/united-kingdom-round.svg"
+                  src="@/assets/images/flags/united-kingdom-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">UK</p>
@@ -753,7 +753,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/brazil-round.svg"
+                  src="@/assets/images/flags/brazil-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -772,7 +772,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/spain-round.svg"
+                  src="@/assets/images/flags/spain-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -912,7 +912,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/india-round.svg"
+                  src="@/assets/images/flags/india-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -931,7 +931,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/russia-round.svg"
+                  src="@/assets/images/flags/russia-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -1071,7 +1071,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/china-round.svg"
+                  src="@/assets/images/flags/china-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -1090,7 +1090,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/usa-round.svg"
+                  src="@/assets/images/flags/usa-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -1230,7 +1230,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/italy-round.svg"
+                  src="@/assets/images/flags/italy-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">
@@ -1249,7 +1249,7 @@
               <div class="flex items-center space-x-2">
                 <img
                   class="h-6 w-6"
-                  src="images/flags/switzerland-round.svg"
+                  src="@/assets/images/flags/switzerland-round.svg"
                   alt="flag"
                 />
                 <p class="font-medium text-slate-700 dark:text-navy-100">

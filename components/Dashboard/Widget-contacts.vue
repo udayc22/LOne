@@ -43,7 +43,7 @@
           <div class="avatar h-16 w-16">
             <img
               class="mask is-squircle"
-              src="images/200x200.png"
+              src="@/assets/images/200x200.png"
               alt="avatar"
             />
           </div>
@@ -70,7 +70,7 @@
           <div class="avatar h-16 w-16">
             <img
               class="mask is-squircle"
-              src="images/200x200.png"
+              src="@/assets/images/200x200.png"
               alt="avatar"
             />
           </div>
@@ -221,7 +221,7 @@
                 <div class="avatar h-10 w-10">
                   <img
                     class="rounded-full"
-                    src="images/200x200.png"
+                    src="@/assets/images/200x200.png"
                     alt="avatar"
                   />
                 </div>
@@ -276,7 +276,7 @@
                 <div class="avatar h-10 w-10">
                   <img
                     class="rounded-full"
-                    src="images/200x200.png"
+                    src="@/assets/images/200x200.png"
                     alt="avatar"
                   />
                 </div>
@@ -386,7 +386,7 @@
                 <div class="avatar h-10 w-10">
                   <img
                     class="rounded-full"
-                    src="images/200x200.png"
+                    src="@/assets/images/200x200.png"
                     alt="avatar"
                   />
                 </div>
@@ -441,7 +441,7 @@
                 <div class="avatar h-10 w-10">
                   <img
                     class="rounded-full"
-                    src="images/200x200.png"
+                    src="@/assets/images/200x200.png"
                     alt="avatar"
                   />
                 </div>
@@ -496,7 +496,7 @@
                 <div class="avatar h-10 w-10">
                   <img
                     class="rounded-full"
-                    src="images/200x200.png"
+                    src="@/assets/images/200x200.png"
                     alt="avatar"
                   />
                 </div>
@@ -551,7 +551,7 @@
                 <div class="avatar h-10 w-10">
                   <img
                     class="rounded-full"
-                    src="images/200x200.png"
+                    src="@/assets/images/200x200.png"
                     alt="avatar"
                   />
                 </div>
@@ -671,7 +671,7 @@
           </div>
         </div>
         <div class="avatar h-16 w-16">
-          <img class="mask is-squircle" src="images/200x200.png" alt="avatar" />
+          <img class="mask is-squircle" src="@/assets/images/200x200.png" alt="avatar" />
         </div>
         <h3
           class="mt-2 text-base font-medium text-slate-700 dark:text-navy-100"

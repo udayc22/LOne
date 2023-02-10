@@ -236,7 +236,7 @@
           >
             <div class="flex w-72 shrink-0 flex-col">
               <div class="flex items-center space-x-2">
-                <img class="h-6 w-6" src="images/100x100.png" alt="flag" />
+                <img class="h-6 w-6" src="@/assets/images/100x100.png" alt="flag" />
                 <div>
                   <span>Bitcoin</span>
                   <span
@@ -285,7 +285,7 @@
             </div>
             <div class="flex w-72 shrink-0 flex-col">
               <div class="flex items-center space-x-2">
-                <img class="h-6 w-6" src="images/100x100.png" alt="flag" />
+                <img class="h-6 w-6" src="@/assets/images/100x100.png" alt="flag" />
                 <div>
                   <span>Ethereum</span>
                   <span
@@ -334,7 +334,7 @@
             </div>
             <div class="flex w-72 shrink-0 flex-col">
               <div class="flex items-center space-x-2">
-                <img class="h-6 w-6" src="images/100x100.png" alt="flag" />
+                <img class="h-6 w-6" src="@/assets/images/100x100.png" alt="flag" />
                 <div>
                   <span>Solana</span>
                   <span
@@ -383,7 +383,7 @@
             </div>
             <div class="flex w-72 shrink-0 flex-col">
               <div class="flex items-center space-x-2">
-                <img class="h-6 w-6" src="images/100x100.png" alt="flag" />
+                <img class="h-6 w-6" src="@/assets/images/100x100.png" alt="flag" />
                 <div>
                   <span>Litecoin</span>
                   <span
@@ -1141,7 +1141,7 @@
               <div class="rounded-lg bg-white p-3 dark:bg-navy-700">
                 <div class="flex items-center justify-between">
                   <p>Bitcoin</p>
-                  <img src="images/100x100.png" class="h-6 w-6" alt="logo" />
+                  <img src="@/assets/images/100x100.png" class="h-6 w-6" alt="logo" />
                 </div>
 
                 <div class="mt-4 flex items-end justify-between">
@@ -1161,7 +1161,7 @@
               <div class="rounded-lg bg-white p-3 dark:bg-navy-700">
                 <div class="flex items-center justify-between">
                   <p>Litecoin</p>
-                  <img src="images/100x100.png" class="h-6 w-6" alt="logo" />
+                  <img src="@/assets/images/100x100.png" class="h-6 w-6" alt="logo" />
                 </div>
 
                 <div class="mt-4 flex items-end justify-between">
@@ -1180,7 +1180,7 @@
               <div class="rounded-lg bg-white p-3 dark:bg-navy-700">
                 <div class="flex items-center justify-between">
                   <p>Ethereum</p>
-                  <img src="images/100x100.png" class="h-6 w-6" alt="logo" />
+                  <img src="@/assets/images/100x100.png" class="h-6 w-6" alt="logo" />
                 </div>
 
                 <div class="mt-4 flex items-end justify-between">
@@ -1204,7 +1204,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -1220,7 +1220,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -1228,7 +1228,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>

@@ -41,7 +41,7 @@
             <div class="flex items-start justify-between">
               <img
                 class="h-12 w-12 rounded-lg object-cover object-center"
-                src="images/800x600.png"
+                src="@/assets/images/800x600.png"
                 alt="image"
               />
               <p class="text-xs+ text-amber-50">May 01, 2021</p>
@@ -62,7 +62,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-warning"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -78,7 +78,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-warning"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -86,7 +86,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-warning"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -135,7 +135,7 @@
             <div class="flex items-start justify-between">
               <img
                 class="h-12 w-12 rounded-lg object-cover object-center"
-                src="images/800x600.png"
+                src="@/assets/images/800x600.png"
                 alt="image"
               />
               <p class="text-xs+">June 04, 2021</p>
@@ -160,7 +160,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -176,14 +176,14 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -232,7 +232,7 @@
             <div class="flex items-start justify-between">
               <img
                 class="h-12 w-12 rounded-lg object-cover object-center"
-                src="images/illustrations/chat-ui.svg"
+                src="@/assets/images/illustrations/chat-ui.svg"
                 alt="image"
               />
               <p class="text-xs+">Oct 27, 2021</p>
@@ -259,7 +259,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -275,7 +275,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -283,7 +283,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -332,7 +332,7 @@
             <div class="flex items-start justify-between">
               <img
                 class="h-12 w-12 rounded-lg object-cover object-center"
-                src="images/illustrations/store-ui.svg"
+                src="@/assets/images/illustrations/store-ui.svg"
                 alt="image"
               />
               <p class="text-xs+">Sep 16, 2021</p>
@@ -357,7 +357,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -373,7 +373,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -381,7 +381,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -430,7 +430,7 @@
             <div class="flex items-start justify-between">
               <img
                 class="h-12 w-12 rounded-lg object-cover object-center"
-                src="images/illustrations/nft.svg"
+                src="@/assets/images/illustrations/nft.svg"
                 alt="image"
               />
               <p class="text-xs+">Jan 03, 2021</p>
@@ -455,7 +455,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -471,7 +471,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -479,7 +479,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -528,7 +528,7 @@
             <div class="flex items-start justify-between">
               <img
                 class="h-12 w-12 rounded-lg object-cover object-center"
-                src="images/800x600.png"
+                src="@/assets/images/800x600.png"
                 alt="image"
               />
               <p class="text-xs+">May 09, 2021</p>
@@ -559,7 +559,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -575,7 +575,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -583,7 +583,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -632,7 +632,7 @@
             <div class="flex items-start justify-between">
               <img
                 class="h-12 w-12 rounded-lg object-cover object-center"
-                src="images/illustrations/lms-ui.svg"
+                src="@/assets/images/illustrations/lms-ui.svg"
                 alt="image"
               />
               <p class="text-xs+">Jan 03, 2021</p>
@@ -657,7 +657,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -673,7 +673,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -681,7 +681,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -730,7 +730,7 @@
             <div class="flex items-start justify-between">
               <img
                 class="h-12 w-12 rounded-lg object-cover object-center"
-                src="images/800x600.png"
+                src="@/assets/images/800x600.png"
                 alt="image"
               />
               <p class="text-xs+">June 04, 2021</p>
@@ -755,7 +755,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -771,7 +771,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -779,7 +779,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full border-2 border-white dark:border-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>

@@ -319,7 +319,7 @@
                   <div class="avatar">
                     <img
                       class="mask is-squircle"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -472,19 +472,19 @@
                   <img
                     data-tooltip="Award Level 1"
                     class="h-6 w-6"
-                    src="images/awards/award-19.svg"
+                    src="@/assets/images/awards/award-19.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 2"
                     class="h-6 w-6"
-                    src="images/awards/award-2.svg"
+                    src="@/assets/images/awards/award-2.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 3"
                     class="h-6 w-6"
-                    src="images/awards/award-5.svg"
+                    src="@/assets/images/awards/award-5.svg"
                     alt="avatar"
                   />
                 </div>
@@ -519,7 +519,7 @@
                   <div class="avatar">
                     <img
                       class="mask is-squircle"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -667,19 +667,19 @@
                   <img
                     data-tooltip="Award Level 1"
                     class="h-6 w-6"
-                    src="images/awards/award-1.svg"
+                    src="@/assets/images/awards/award-1.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 2"
                     class="h-6 w-6"
-                    src="images/awards/award-6.svg"
+                    src="@/assets/images/awards/award-6.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 3"
                     class="h-6 w-6"
-                    src="images/awards/award-9.svg"
+                    src="@/assets/images/awards/award-9.svg"
                     alt="avatar"
                   />
                 </div>
@@ -714,7 +714,7 @@
                   <div class="avatar">
                     <img
                       class="mask is-squircle"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -862,13 +862,13 @@
                   <img
                     data-tooltip="Award Level 2"
                     class="h-6 w-6"
-                    src="images/awards/award-14.svg"
+                    src="@/assets/images/awards/award-14.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 3"
                     class="h-6 w-6"
-                    src="images/awards/award-13.svg"
+                    src="@/assets/images/awards/award-13.svg"
                     alt="avatar"
                   />
                 </div>
@@ -903,7 +903,7 @@
                   <div class="avatar">
                     <img
                       class="mask is-squircle"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -1051,13 +1051,13 @@
                   <img
                     data-tooltip="Award Level 2"
                     class="h-6 w-6"
-                    src="images/awards/award-15.svg"
+                    src="@/assets/images/awards/award-15.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 3"
                     class="h-6 w-6"
-                    src="images/awards/award-13.svg"
+                    src="@/assets/images/awards/award-13.svg"
                     alt="avatar"
                   />
                 </div>
@@ -1092,7 +1092,7 @@
                   <div class="avatar">
                     <img
                       class="mask is-squircle"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -1235,19 +1235,19 @@
                   <img
                     data-tooltip="Award Level 2"
                     class="h-6 w-6"
-                    src="images/awards/award-15.svg"
+                    src="@/assets/images/awards/award-15.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 3"
                     class="h-6 w-6"
-                    src="images/awards/award-5.svg"
+                    src="@/assets/images/awards/award-5.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 3"
                     class="h-6 w-6"
-                    src="images/awards/award-25.svg"
+                    src="@/assets/images/awards/award-25.svg"
                     alt="avatar"
                   />
                 </div>
@@ -1282,7 +1282,7 @@
                   <div class="avatar">
                     <img
                       class="mask is-squircle"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="image"
                     />
                   </div>
@@ -1433,19 +1433,19 @@
                   <img
                     data-tooltip="Award Level 2"
                     class="h-6 w-6"
-                    src="images/awards/award-1.svg"
+                    src="@/assets/images/awards/award-1.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 3"
                     class="h-6 w-6"
-                    src="images/awards/award-24.svg"
+                    src="@/assets/images/awards/award-24.svg"
                     alt="avatar"
                   />
                   <img
                     data-tooltip="Award Level 3"
                     class="h-6 w-6"
-                    src="images/awards/award-30.svg"
+                    src="@/assets/images/awards/award-30.svg"
                     alt="avatar"
                   />
                 </div>

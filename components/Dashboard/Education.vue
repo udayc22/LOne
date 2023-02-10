@@ -477,7 +477,7 @@
         <div class="m-auto px-5">
           <img
             class="w-full max-w-xs"
-            src="images/illustrations/awards-man.svg"
+            src="@/assets/images/illustrations/awards-man.svg"
             alt="image"
           />
         </div>
@@ -487,7 +487,7 @@
               <div>
                 <img
                   class="h-10 w-10"
-                  src="images/awards/award-31.svg"
+                  src="@/assets/images/awards/award-31.svg"
                   alt="image"
                 />
               </div>
@@ -510,7 +510,7 @@
               <div>
                 <img
                   class="h-10 w-10"
-                  src="images/awards/award-27.svg"
+                  src="@/assets/images/awards/award-27.svg"
                   alt="image"
                 />
               </div>
@@ -533,7 +533,7 @@
               <div>
                 <img
                   class="h-10 w-10"
-                  src="images/awards/award-5.svg"
+                  src="@/assets/images/awards/award-5.svg"
                   alt="image"
                 />
               </div>
@@ -633,7 +633,7 @@
               <div class="avatar h-7 w-7 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -649,7 +649,7 @@
               <div class="avatar h-7 w-7 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -657,7 +657,7 @@
               <div class="avatar h-7 w-7 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -711,7 +711,7 @@
               <div class="avatar h-7 w-7 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -727,7 +727,7 @@
               <div class="avatar h-7 w-7 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -735,7 +735,7 @@
               <div class="avatar h-7 w-7 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -789,7 +789,7 @@
               <div class="avatar h-7 w-7 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -805,7 +805,7 @@
               <div class="avatar h-7 w-7 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -813,7 +813,7 @@
               <div class="avatar h-7 w-7 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -972,7 +972,7 @@
               </div>
               <img
                 class="h-24 w-24 rounded-lg object-cover"
-                src="images/800x600.png"
+                src="@/assets/images/800x600.png"
                 alt="image"
               />
             </div>
@@ -1018,7 +1018,7 @@
               </div>
               <img
                 class="h-24 w-24 rounded-lg object-cover"
-                src="images/illustrations/store-ui.svg"
+                src="@/assets/images/illustrations/store-ui.svg"
                 alt="image"
               />
             </div>
@@ -1064,7 +1064,7 @@
               </div>
               <img
                 class="h-24 w-24 rounded-lg object-cover"
-                src="images/800x600.png"
+                src="@/assets/images/800x600.png"
                 alt="image"
               />
             </div>
@@ -1110,7 +1110,7 @@
               </div>
               <img
                 class="h-24 w-24 rounded-lg object-cover"
-                src="images/800x600.png"
+                src="@/assets/images/800x600.png"
                 alt="image"
               />
             </div>

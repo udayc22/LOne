@@ -163,7 +163,7 @@
                     <div class="h-12 w-12">
                       <img
                         class="h-full w-full rounded-lg"
-                        src="images/600x400.png"
+                        src="@/assets/images/600x400.png"
                         alt="image"
                       />
                     </div>
@@ -203,7 +203,7 @@
                     <div class="h-12 w-12">
                       <img
                         class="h-full w-full rounded-lg"
-                        src="images/600x400.png"
+                        src="@/assets/images/600x400.png"
                         alt="image"
                       />
                     </div>
@@ -244,7 +244,7 @@
                     <div class="h-12 w-12">
                       <img
                         class="h-full w-full rounded-lg"
-                        src="images/600x400.png"
+                        src="@/assets/images/600x400.png"
                         alt="image"
                       />
                     </div>
@@ -284,7 +284,7 @@
                     <div class="h-12 w-12">
                       <img
                         class="h-full w-full rounded-lg"
-                        src="images/600x400.png"
+                        src="@/assets/images/600x400.png"
                         alt="image"
                       />
                     </div>
@@ -324,7 +324,7 @@
                     <div class="h-12 w-12">
                       <img
                         class="h-full w-full rounded-lg"
-                        src="images/600x400.png"
+                        src="@/assets/images/600x400.png"
                         alt="image"
                       />
                     </div>
@@ -621,7 +621,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 
@@ -682,7 +682,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 
@@ -743,7 +743,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 
@@ -804,7 +804,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 
@@ -865,7 +865,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 
@@ -926,7 +926,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 
@@ -987,7 +987,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 
@@ -1048,7 +1048,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 
@@ -1109,7 +1109,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 
@@ -1170,7 +1170,7 @@
           <div class="flex w-72 shrink-0 flex-col">
             <img
               class="h-48 w-full rounded-2xl object-cover object-center"
-              src="images/800x600.png"
+              src="@/assets/images/800x600.png"
               alt="image"
             />
 

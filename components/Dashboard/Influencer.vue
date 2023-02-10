@@ -146,7 +146,7 @@
                     <div class="avatar h-9 w-9">
                       <img
                         class="rounded-full"
-                        src="images/200x200.png"
+                        src="@/assets/images/200x200.png"
                         alt="avatar"
                       />
                     </div>
@@ -178,7 +178,7 @@
                     <div class="avatar h-9 w-9">
                       <img
                         class="rounded-full"
-                        src="images/200x200.png"
+                        src="@/assets/images/200x200.png"
                         alt="avatar"
                       />
                     </div>
@@ -210,7 +210,7 @@
                     <div class="avatar h-9 w-9">
                       <img
                         class="rounded-full"
-                        src="images/200x200.png"
+                        src="@/assets/images/200x200.png"
                         alt="avatar"
                       />
                     </div>
@@ -242,7 +242,7 @@
                     <div class="avatar h-9 w-9">
                       <img
                         class="rounded-full"
-                        src="images/200x200.png"
+                        src="@/assets/images/200x200.png"
                         alt="avatar"
                       />
                     </div>
@@ -274,7 +274,7 @@
                     <div class="avatar h-9 w-9">
                       <img
                         class="rounded-full"
-                        src="images/200x200.png"
+                        src="@/assets/images/200x200.png"
                         alt="avatar"
                       />
                     </div>
@@ -344,7 +344,11 @@
           class="scrollbar-sm mt-5 flex space-x-4 overflow-x-auto px-4 sm:px-5 lg:mt-0 lg:pl-0"
         >
           <div class="flex w-36 shrink-0 flex-col items-center">
-            <img class="z-10 h-10 w-10" src="images/100x100.png" alt="flag" />
+            <img
+              class="z-10 h-10 w-10"
+              src="@/assets/images/100x100.png"
+              alt="flag"
+            />
 
             <div class="card -mt-5 w-full rounded-2xl px-3 py-5 text-center">
               <p
@@ -370,7 +374,11 @@
             </div>
           </div>
           <div class="flex w-36 shrink-0 flex-col items-center">
-            <img class="z-10 h-10 w-10" src="images/100x100.png" alt="flag" />
+            <img
+              class="z-10 h-10 w-10"
+              src="@/assets/images/100x100.png"
+              alt="flag"
+            />
 
             <div class="card -mt-5 w-full rounded-2xl px-3 py-5 text-center">
               <p
@@ -396,7 +404,11 @@
             </div>
           </div>
           <div class="flex w-36 shrink-0 flex-col items-center">
-            <img class="z-10 h-10 w-10" src="images/100x100.png" alt="flag" />
+            <img
+              class="z-10 h-10 w-10"
+              src="@/assets/images/100x100.png"
+              alt="flag"
+            />
 
             <div class="card -mt-5 w-full rounded-2xl px-3 py-5 text-center">
               <p
@@ -422,7 +434,11 @@
             </div>
           </div>
           <div class="flex w-36 shrink-0 flex-col items-center">
-            <img class="z-10 h-10 w-10" src="images/100x100.png" alt="flag" />
+            <img
+              class="z-10 h-10 w-10"
+              src="@/assets/images/100x100.png"
+              alt="flag"
+            />
 
             <div class="card -mt-5 w-full rounded-2xl px-3 py-5 text-center">
               <p
@@ -448,7 +464,11 @@
             </div>
           </div>
           <div class="flex w-36 shrink-0 flex-col items-center">
-            <img class="z-10 h-10 w-10" src="images/100x100.png" alt="flag" />
+            <img
+              class="z-10 h-10 w-10"
+              src="@/assets/images/100x100.png"
+              alt="flag"
+            />
 
             <div class="card -mt-5 w-full rounded-2xl px-3 py-5 text-center">
               <p
@@ -474,7 +494,11 @@
             </div>
           </div>
           <div class="flex w-36 shrink-0 flex-col items-center">
-            <img class="z-10 h-10 w-10" src="images/100x100.png" alt="flag" />
+            <img
+              class="z-10 h-10 w-10"
+              src="@/assets/images/100x100.png"
+              alt="flag"
+            />
 
             <div class="card -mt-5 w-full rounded-2xl px-3 py-5 text-center">
               <p
@@ -500,7 +524,11 @@
             </div>
           </div>
           <div class="flex w-36 shrink-0 flex-col items-center">
-            <img class="z-10 h-10 w-10" src="images/100x100.png" alt="flag" />
+            <img
+              class="z-10 h-10 w-10"
+              src="@/assets/images/100x100.png"
+              alt="flag"
+            />
 
             <div class="card -mt-5 w-full rounded-2xl px-3 py-5 text-center">
               <p
@@ -526,7 +554,11 @@
             </div>
           </div>
           <div class="flex w-36 shrink-0 flex-col items-center">
-            <img class="z-10 h-10 w-10" src="images/100x100.png" alt="flag" />
+            <img
+              class="z-10 h-10 w-10"
+              src="@/assets/images/100x100.png"
+              alt="flag"
+            />
 
             <div class="card -mt-5 w-full rounded-2xl px-3 py-5 text-center">
               <p

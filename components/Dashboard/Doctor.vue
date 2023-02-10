@@ -10,7 +10,7 @@
               <div class="flex justify-center sm:order-last">
                 <img
                   class="-mt-16 h-40 sm:mt-0"
-                  src="images/illustrations/doctor.svg"
+                  src="@/assets/images/illustrations/doctor.svg"
                   alt="image"
                 />
               </div>
@@ -50,7 +50,7 @@
                     <div class="avatar">
                       <img
                         class="rounded-full"
-                        src="images/200x200.png"
+                        src="@/assets/images/200x200.png"
                         alt="image"
                       />
                     </div>
@@ -139,7 +139,7 @@
                     <div class="avatar">
                       <img
                         class="rounded-full"
-                        src="images/200x200.png"
+                        src="@/assets/images/200x200.png"
                         alt="image"
                       />
                     </div>
@@ -228,7 +228,7 @@
                     <div class="avatar">
                       <img
                         class="rounded-full"
-                        src="images/200x200.png"
+                        src="@/assets/images/200x200.png"
                         alt="image"
                       />
                     </div>
@@ -453,7 +453,7 @@
                             <div class="avatar h-9 w-9">
                               <img
                                 class="rounded-full"
-                                src="images/200x200.png"
+                                src="@/assets/images/200x200.png"
                                 alt="avatar"
                               />
                             </div>
@@ -520,7 +520,7 @@
                             <div class="avatar h-9 w-9">
                               <img
                                 class="rounded-full"
-                                src="images/200x200.png"
+                                src="@/assets/images/200x200.png"
                                 alt="avatar"
                               />
                             </div>
@@ -587,7 +587,7 @@
                             <div class="avatar h-9 w-9">
                               <img
                                 class="rounded-full"
-                                src="images/200x200.png"
+                                src="@/assets/images/200x200.png"
                                 alt="avatar"
                               />
                             </div>
@@ -655,7 +655,7 @@
                             <div class="avatar h-9 w-9">
                               <img
                                 class="rounded-full"
-                                src="images/200x200.png"
+                                src="@/assets/images/200x200.png"
                                 alt="avatar"
                               />
                             </div>
@@ -722,7 +722,7 @@
                             <div class="avatar h-9 w-9">
                               <img
                                 class="rounded-full"
-                                src="images/200x200.png"
+                                src="@/assets/images/200x200.png"
                                 alt="avatar"
                               />
                             </div>
@@ -790,7 +790,7 @@
                             <div class="avatar h-9 w-9">
                               <img
                                 class="rounded-full"
-                                src="images/200x200.png"
+                                src="@/assets/images/200x200.png"
                                 alt="avatar"
                               />
                             </div>
@@ -938,7 +938,7 @@
                     <div class="avatar h-16 w-16">
                       <img
                         class="rounded-full"
-                        src="images/200x200.png"
+                        src="@/assets/images/200x200.png"
                         alt="image"
                       />
                     </div>
