@@ -1,5 +1,5 @@
 <template>
-  <workspaces />
+  <Workspace />
 </template>
 
 <script setup>
