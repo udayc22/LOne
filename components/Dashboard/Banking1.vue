@@ -10,7 +10,7 @@
               <div class="grow">
                 <img
                   class="h-3"
-                  src="images/payments/cc-visa-white.svg"
+                  src="@/assets/images/payments/cc-visa-white.svg"
                   alt="image"
                 />
               </div>
@@ -28,7 +28,7 @@
               <div class="grow">
                 <img
                   class="h-3"
-                  src="images/payments/cc-visa-white.svg"
+                  src="@/assets/images/payments/cc-visa-white.svg"
                   alt="image"
                 />
               </div>
@@ -46,7 +46,7 @@
               <div class="grow">
                 <img
                   class="h-3"
-                  src="images/payments/cc-visa-white.svg"
+                  src="@/assets/images/payments/cc-visa-white.svg"
                   alt="image"
                 />
               </div>
@@ -135,7 +135,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -151,7 +151,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -159,7 +159,7 @@
               <div class="avatar h-8 w-8 hover:z-10">
                 <img
                   class="rounded-full ring ring-white dark:ring-navy-700"
-                  src="images/200x200.png"
+                  src="@/assets/images/200x200.png"
                   alt="avatar"
                 />
               </div>
@@ -399,7 +399,7 @@
                   <div class="avatar">
                     <img
                       class="rounded-full"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="avatar"
                     />
                   </div>
@@ -421,7 +421,7 @@
                   <div class="avatar">
                     <img
                       class="rounded-full"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="avatar"
                     />
                   </div>
@@ -443,7 +443,7 @@
                   <div class="avatar">
                     <img
                       class="rounded-full"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="avatar"
                     />
                   </div>
@@ -465,7 +465,7 @@
                   <div class="avatar">
                     <img
                       class="rounded-full"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="avatar"
                     />
                   </div>
@@ -487,7 +487,7 @@
                   <div class="avatar">
                     <img
                       class="rounded-full"
-                      src="images/200x200.png"
+                      src="@/assets/images/200x200.png"
                       alt="avatar"
                     />
                   </div>
