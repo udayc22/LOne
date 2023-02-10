@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import Crypto1Vue from "~~/components/Dashboard/Crypto1.vue";
+import Crypto1 from "~~/components/Dashboard/Crypto1.vue";
 </script>
 
 <style></style>

@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import WidgetUiVue from "~~/components/Dashboard/Widget-ui.vue";
+import WidgetUi from "~~/components/Dashboard/Widget-ui.vue";
 </script>
 
 <style></style>

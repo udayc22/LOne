@@ -3,7 +3,7 @@
 </template>
 
 <script setup>
-import WidgetContactsVue from "~~/components/Dashboard/Widget-contacts.vue";
+import WidgetContacts from "~~/components/Dashboard/Widget-contacts.vue";
 </script>
 
 <style></style>
