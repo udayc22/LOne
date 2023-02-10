@@ -1,5 +1,5 @@
 <template>
-  <widget-ui />
+  <Widget-ui />
 </template>
 
 <script setup>
